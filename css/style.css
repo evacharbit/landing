@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Golos+Text&family=Lora:ital@0;1&display=swap");
+
+@import url("components/contenair.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'fantasy', serif;
+	font-size: 18px;
+	margin: 0px;
+	display: block;
+}
+
+h1, h2, h3 {
+	font-family: Golos Text;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
